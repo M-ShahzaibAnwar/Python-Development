@@ -1,2 +1,6 @@
-# Python-Development
-This is practicing tasks.For python oop  and dsa concepts .From beginner level to advance.
+# Python Development Practice
+
+This repository contains my Python learning journey:
+
+- `oop/` - Object-Oriented Programming tasks
+- `dsa/` - Data Structures & Algorithms problems
